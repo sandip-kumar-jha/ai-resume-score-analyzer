@@ -6,9 +6,9 @@ The application combines **React, Node.js, Express.js, MongoDB, PDF processing, 
 
 ## 🚀 Live Project
 
-**Frontend:** Deployed on Vercel
-**Backend:** Deployed on Render
-
+**Frontend: https://ai-resume-score-analyzer-two.vercel.app/
+**Backend:   https://ai-resume-score-analyzer.onrender.com
+ 
 ---
 
 ## ✨ Features

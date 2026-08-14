@@ -25,8 +25,8 @@ The application combines **React, Node.js, Express.js, MongoDB, PDF processing, 
 * 📱 Responsive React interface
 * ⚡ RESTful API architecture
 * ☁️ Cloud deployment with Vercel and Render
+![Uploading Screenshot 2026-08-14 124135.png…]()
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ The application combines **React, Node.js, Express.js, MongoDB, PDF processing, 
 * Axios
 * React Router
 * Firebase Authentication
-
+ 
 ### Backend
 
 * Node.js

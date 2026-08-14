@@ -25,6 +25,9 @@ The application combines **React, Node.js, Express.js, MongoDB, PDF processing, 
 * 📱 Responsive React interface
 * ⚡ RESTful API architecture
 * ☁️ Cloud deployment with Vercel and Render
+
+  <img width="1727" height="861" alt="Screenshot 2026-08-14 124135" src="https://github.com/user-attachments/assets/aeef4fb3-058c-4174-a63e-d7590237087d" />
+
 ![Uploading Screenshot 2026-08-14 124135.png…]()
 
 

@@ -11,7 +11,7 @@ app.use(express.json());
 
 app.use(cors({
     credentials: true,
-    origin: "https://ai-resume-score-analyzer-sigma.vercel.app"
+    origin: "https://ai-resume-score-analyzer-two.vercel.app"
 }));
 
 const UserRoutes = require('./Routes/user');

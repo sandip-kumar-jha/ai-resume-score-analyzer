@@ -1,20 +1,19 @@
-
 import { initializeApp } from "firebase/app";
-import { getAuth, GoogleAuthProvider } from "firebase/auth";
+import {getAuth, GoogleAuthProvider} from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAazTU3sUcUMuyLVqLOAWczOdXB8HIetq4",
-  authDomain: "mernai-b1525.firebaseapp.com",
-  projectId: "mernai-b1525",
-  storageBucket: "mernai-b1525.firebasestorage.app",
-  messagingSenderId: "235206334441",
-  appId: "1:235206334441:web:7116ca0325274d99c01d78",
-  measurementId: "G-W98V3XNVJX"
+  apiKey: "AIzaSyCticEmI8RFkA4I6p4ESVDyOd8VToAcGV4",
+  authDomain: "mernai-ceac5.firebaseapp.com",
+  projectId: "mernai-ceac5",
+  storageBucket: "mernai-ceac5.firebasestorage.app",
+  messagingSenderId: "1063175735464",
+  appId: "1:1063175735464:web:4c604c1fbd228ef0229a9d",
+  measurementId: "G-WQEJPKJY8J"
 };
 
 const app = initializeApp(firebaseConfig);
 
-const auth = getAuth(app);
+const auth =getAuth(app);
 const provider = new GoogleAuthProvider();
 
-export { auth, provider };
+export {auth,provider};
